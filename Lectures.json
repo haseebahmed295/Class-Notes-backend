@@ -1,0 +1,68 @@
+{
+  "label": "Subjects",
+  "items": [
+    {
+      "label": "Calculus",
+      "items": [
+        {
+          "label": "Lecture 1",
+          "icon": "pi pi-fw pi-bookmark",
+          "to": "/Lectures/Calculus/Lecture 1"
+        },
+        {
+          "label": "Lecture 2",
+          "icon": "pi pi-fw pi-bookmark",
+          "to": "/Lectures/Calculus/Lecture 2"
+        }
+      ]
+    },
+    {
+      "label": "Apllied Physics",
+      "items": [
+        {
+          "label": "Lecture 1",
+          "icon": "pi pi-fw pi-bookmark",
+          "to": "/Lectures/Apllied Physics/Lecture 1"
+        }
+      ]
+    },
+    {
+      "label": "English",
+      "items": []
+    },
+    {
+      "label": "Pakstudy",
+      "items": []
+    },
+    {
+      "label": "FOP",
+      "items": [
+        {
+          "label": "Lecture 1",
+          "icon": "pi pi-fw pi-bookmark",
+          "to": "/lectures/FOP/Lecture 1"
+        }
+      ]
+    },
+    {
+      "label": "Discreate Math",
+      "items": [
+        {
+          "label": "Lecture 1",
+          "icon": "pi pi-fw pi-bookmark",
+          "to": "/Lectures/Discreate Math/Lecture 1"
+        },
+        {
+          "label": "Lecture 2",
+          "icon": "pi pi-fw pi-bookmark",
+          "to": "/lectures/Discreate Math/Lecture 2"
+        },
+        {
+          "label": "Algorithms (intro+types)",
+          "icon": "pi pi-fw pi-bookmark",
+          "to": "/lectures/Discreate Math/Algorithms (intro+types)"
+        }
+      ]
+    }
+  ]
+}
